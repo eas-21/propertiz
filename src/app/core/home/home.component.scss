@@ -1,0 +1,18 @@
+.btn.btn-primary, .btn.btn-secondary {
+    color: rgb(255, 255, 255);
+}
+.btn.btn-primary, .btn.btn-secondary {
+    color: #fff;
+    background-color: #00B98E;
+    border-color:  #00B98E;
+}
+.bg-primary {
+    --bs-bg-opacity: 1;
+    background-color:  #00B98E !important; 
+}
+.btn-dark {
+    color: rgb(255, 255, 255);
+    background-color: rgb(14, 46, 80);
+    border-color: rgb(14, 46, 80);
+
+}
